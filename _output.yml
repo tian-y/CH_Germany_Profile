@@ -1,0 +1,21 @@
+bookdown::gitbook:
+  # Options: tango, pygments, kate, monochrome, espresso, zenburn, haddock, breezedark
+  highlight: tango
+  css: style.css
+  #theme: sandstone
+  edit: no
+  config:
+    toc:
+      depth: 1
+      collapse: subsection
+      scroll_highlight: true
+      before: |
+        <li class="toc-logo"><a href="https://smartdatafinance.org/"><img src="CH_logo_webite_extracted.png"></a></li>
+      after: |
+        <li><a href="https://smartdatafinance.org/" target="blank">Created by the Clearinghouse</a></li>
+    edit: https://github.com/PARIS21-DATA/Norway_factsheet/edit/master/%s
+    info: no
+    fontsettings:
+      size: 2
+    # download: [["CH_methodology_note.pdf", "PDF"]]
+  url: https\://methodology.note.smartdatafinance.org/
