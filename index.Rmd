@@ -1,5 +1,5 @@
 --- 
-title: "Striving Towards Smart Financing for Statistics"
+title: "Norway - Striving Towards Smart Financing for Statistics"
 date: "December 2022"
 description: "Factsheet on Norway's support to data and statistics"
 site: bookdown::bookdown_site
