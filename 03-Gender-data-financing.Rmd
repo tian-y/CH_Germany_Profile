@@ -1,6 +1,6 @@
 # Gender Data Financing
 
-## Global gender data financing figures
+## Global Gender Data Financing Figures
 
 Global funding for gender data has decreased sharply, putting women and girls at particular risk of being left behind without high-quality data. Though overall funding for gender equality increased in 2020, funding for gender data dropped by more than 50% from 2019. This is inconsistent with global ambitions to support gender equality. This worrying trend is consistent with the broader trend in gender equality, where progress has not only stalled but reversed in some cases. Without a gendered approach to data production and use, there will be a lack of insights needed to evaluate how various policies affect women and girls and then take appropriate steps to achieve gender equality.
 
@@ -24,7 +24,7 @@ knitr::include_graphics("data/img/PRESS22_Fig1.4.png")
 ```
 
 
-## Norway’s current gender data and equality strategies 
+## Norway’s Current Gender Data and Equality Strategies 
 
 Global funding flows for gender data activities have not been mainstreamed into the growing support for gender equality. Lack of mainstreaming of support to data and statistics beyond specific support for sectoral data is a key challenge to increasing the effectiveness of support to statistical systems. Exploring the data needs of Norway’s current gender equality program and its future ambitions may be a useful starting point for the development of the forthcoming data strategy.
 

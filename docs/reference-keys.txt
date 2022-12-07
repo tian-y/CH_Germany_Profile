@@ -3,6 +3,9 @@ tab:other-donors
 tab:aidorphans
 tab:significant-overlaps
 tab:projectlist
+fig:genseries
+fig:Gendonors
+fig:norwaygenfocus
 the-global-landscape-of-financing-for-statistics
 an-overview-of-norway-top-recipients-active-partners-and-aid-orphans
 top-recipients-of-norways-statistical-support
@@ -13,7 +16,3 @@ key-projects-by-donors-in-norways-top-ten-recipient-countries
 gender-data-financing
 global-gender-data-financing-figures
 norways-current-gender-data-and-equality-strategies
-fig:genseries
-fig:gendonors
-fig:norwaygenfocus
-fig:Gendonors
