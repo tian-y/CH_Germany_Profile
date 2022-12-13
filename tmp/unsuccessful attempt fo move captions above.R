@@ -1,6 +1,6 @@
 
-```{r setup2}
-#https://stackoverflow.com/a/26743812/4927395 
+```{r setup2, echo = F}
+# https://stackoverflow.com/a/26743812/4927395 
 library(knitr)
 knit_hooks$set(plot = function(x, options, .notes = note) {
   paste('<figure><figcaption>', 
@@ -9,9 +9,10 @@ knit_hooks$set(plot = function(x, options, .notes = note) {
         opts_knit$get('base.url'), 
         paste(x, collapse = '.'),
         '">',
-        '<fignote><br>', 
-        .notes, 
-        '</fignote>',
+        # '<fignote>', 
+        # '<br>',
+        # .notes, 
+        # '</fignote>',
         '</figure>',
         sep = '')
 }) #comment out to restore numbering
@@ -30,5 +31,5 @@ knit_hooks$set(plot = function(x, options, .notes = note) {
 # })
 
 
-library(ggplot2)
+# library(ggplot2)
 ```

@@ -2,10 +2,11 @@
 
 When looking at policy markers, Germany's ODA for data and statistics is mainly destined to participatory development and good governance: for activities accounting for 72% of total ODA to data and statistics between 2018 and 2020. Gender equality was indicated either as a principal or partial objective targeted by Germany, supported by 47% of ODA to data and statistics. In addition, 33% of ODA to data and statistics was aligned with environmental objectives during the same period (Figure \@ref(fig:figure2)).
 
-``` {r figure2, echo = F, fig.cap = 'Germany - ODA to data and statistics by policy objective and statistical domain, 2018 - 2020', fig.align = 'center'}
+``` {r figure2, echo = F, fig.cap = 'Germany - ODA to data and statistics by policy objective and statistical domain, 2018 - 2020', fig.align = 'center', fig.topcaption=TRUE}
 
 knitr::include_graphics("images/figures/Figure2.svg")
 
 ```
+```Note: DAC: Development Assistance Committee. Based on share of total ODA gross disbursements.```
 
 Zooming in on the respective statistical domains targeted, Germany's ODA aims to strengthen data and statistics in most of the cooperation sectors. The largest share, 26%, aimed at supporting **environment data**, linked among others to supporting national adaptation plan processes in West African countries. The second largest share, 17% aimed at strengthening **health data**, mainly linked to its funding of innovative approaches to social protection. Moreover, 16% of Germany's ODA targeted population statistics, primarily linked to Germany's support for the modernisation of the civil registration system in Cameroon, and for the identification of poor households programme in Cambodia, as well as its support to **migration data** in partnership with the IOM. 14% of Germany's ODA targeted strengthening **economic data and statistics**, linked primarily to its support for the IMF's D4D thematic fund.

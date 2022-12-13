@@ -11,9 +11,9 @@ output:
     section_number: no
 ---
 
-# Foreword and Acknowledgements {-}
-
 This Profile presents 2020 German ODA to data and statistics, and relevant charts, using the OECD D4D Profile methodology for Germany.
+
+# Foreword and Acknowledgements {-}
 
 In 2021, the OECD published first-ever [Data for Development (D4D) Profiles](https://www.oecd.org/dac/data-for-development-profiles-84baa8f3-en.htm) of 14 members of the Development Co-operation Committee (DAC), providing a comprehensive view of the current landscape of development co-operation and support for data and statistics, and insights on how members of the DAC members allocate official development assistance (ODA) to statistical capacity development and strengthening data ecosystems in low and middle income countries.
 
