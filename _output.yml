@@ -2,20 +2,30 @@ bookdown::gitbook:
   # Options: tango, pygments, kate, monochrome, espresso, zenburn, haddock, breezedark
   highlight: tango
   css: style.css
-  #theme: sandstone
+  # theme: sandstone
   edit: no
   config:
     toc:
-      depth: 1
+      depth: 2
       collapse: subsection
       scroll_highlight: true
       before: |
-        <li class="toc-logo"><a href="https://paris21-data.github.io/CH_Norway_Factsheet/"><img src="CH_logo_webite_extracted.png"></a></li><li class="toc-logo"><a href="https://www.oecd.org/dac/data-for-development-profiles-84baa8f3-en.htm"><img src="images/OECD_Logo.png"></a></li>
+        <li class="toc-logo"><a href="https://paris21-data.github.io/CH_Germany_Profile/"><img src="CH_logo_webite_extracted.png"></a></li><li class="toc-logo"><a href="https://www.oecd.org/dac/data-for-development-profiles-84baa8f3-en.htm"><img src="images/OECD_Logo.png"></a></li>
       after: |
         <li><a href="https://smartdatafinance.org/" target="blank">GIZ or BMZ logo goes here?</a></li>
-    edit: https://github.com/PARIS21-DATA/Norway_factsheet/edit/master/%s
     info: no
     fontsettings:
       size: 2
+    sharing:
+      facebook: true
+      github: false
+      twitter: true
+      linkedin: true
+      weibo: false
+      instapaper: false
+      vk: false
+      whatsapp: false
+      all: ['facebook', 'twitter', 'linkedin', 'whatsapp']
     # download: [["CH_methodology_note.pdf", "PDF"]]
-  url: https\://methodology.note.smartdatafinance.org/
+    # edit: https://github.com/PARIS21-DATA/CH_Germany_Profile/edit/master/%s
+  url: https\://www.smartdatafinance.org//
