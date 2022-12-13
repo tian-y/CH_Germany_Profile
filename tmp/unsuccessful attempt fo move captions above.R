@@ -3,7 +3,7 @@
 # https://stackoverflow.com/a/26743812/4927395 
 library(knitr)
 knit_hooks$set(plot = function(x, options, .notes = note) {
-  paste('<figure><figcaption>', 
+  paste('<figure><figlabel>',opts_current$get("label"),'</figlabel><figcaption>', 
         options$fig.cap, 
         '</figcaption><img src="',
         opts_knit$get('base.url'), 
