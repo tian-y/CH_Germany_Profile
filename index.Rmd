@@ -20,3 +20,8 @@ In 2021, the OECD published first-ever [Data for Development (D4D) Profiles](htt
 In 2022, the OECD Data for Development team has elaborated and added the D4D Profile for Germany (with the latest ODA data (2020)), thereby bringing to 15 the total number of DAC members with broad information on their statistical policy priorities, strategies, funding, delivery modalities and partnerships. 
 
 This Profile has been drafted by Fatoumata Ngom (OECD) with guidance from Ida Mc Donnell (Team Lead OECD Data for Development). The Profile builds on the initial version prepared by Simon Lange (OECD) and benefited from collaboration with Yu Tian (PARIS21) and Deirdre Appel (Open Data Watch) for its publication and dissemination in the Clearing House for Financing Development Data.
+
+``` {r d4dcover, echo = F, message = F, fig.align = "center"}
+knitr::include_graphics("images/D4D_cover.png")
+```
+

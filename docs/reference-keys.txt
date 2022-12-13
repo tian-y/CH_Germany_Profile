@@ -1,1 +1,7 @@
 fig:figure1
+fig:figure2
+fig:figure3
+fig:figure4
+fig:figure5
+fig:figure6
+fig:figure7
