@@ -1,0 +1,25 @@
+---
+title: "Lessons learned from the Germany Profile ebook"
+output: html_notebook
+---
+
+The style.css file now has one of your customised box
+
+```
+.box {
+  padding: 1em;
+  background: transparent;
+  color: black;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
+```
+
+
+Using `fig.topcaption=TRUE` so that figure captions are above the figures. 
+
+A great website to paste text to markdown: https://euangoddard.github.io/clipboard2markdown/
+
