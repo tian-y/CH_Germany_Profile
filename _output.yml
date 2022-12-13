@@ -6,7 +6,7 @@ bookdown::gitbook:
   edit: no
   config:
     toc:
-      depth: 2
+      depth: 1
       collapse: subsection
       scroll_highlight: true
       before: |
@@ -18,13 +18,8 @@ bookdown::gitbook:
       size: 2
     sharing:
       facebook: true
-      github: false
       twitter: true
       linkedin: true
-      weibo: false
-      instapaper: false
-      vk: false
-      whatsapp: false
       all: ['facebook', 'twitter', 'linkedin', 'whatsapp']
     # download: [["CH_methodology_note.pdf", "PDF"]]
     # edit: https://github.com/PARIS21-DATA/CH_Germany_Profile/edit/master/%s
