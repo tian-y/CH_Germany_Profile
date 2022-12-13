@@ -1,18 +1,21 @@
-# Modalities and channels of delivery {-}
+# Modalities and Channels of Delivery {-}
 
 Between 2018 and 2020, most of Germany’s ODA to data and statistics was provided in the form of project-type interventions (83%) and pooled funding and contributions to specific programmes of implementing partners (14%) (Figure \@ref(fig:figure6)). 
 
-``` {r figure6, echo = F, message = F, fig.cap = 'Germany – ODA to data and statistics by type of aid, 2010 – 2020', fig.align = "center"}
+``` {r figure6, echo = F, message = F, fig.cap = 'Germany – ODA to data and statistics by type of aid, 2010 – 2020', fig.align = "center", fig.topcaption=TRUE}
 knitr::include_graphics("images/figures/Figure6.svg")
 ```
-
+```Note: Based on share of total ODA gross disbursements. NGO: non-governmental organisation; PPP: public-private partnership; TA: technical assistance. ```
 
 
 Between 2018 and 2020, Germany's support was channelled through public-sector entities in Germany and in partner countries (63%), research and teaching institutions (15%) and multilateral organisations (i.e. multi-bi; 19%), with key partners including the IMF, the FAO and the World Bank (Figure \@ref(fig:figure7)). There is an interesting trend in that support at the beginning of the decade was mainly channelled through public-sector entities, while multilateral organisations were the dominant channel in 2014-16. Support to research and teaching institutions increased thereafter. An important partner in this last category is the [Center for International Forestry Research](https://www.cifor.org/), a non-profit organisation that conducts scientific research on the use and management of forests.
 
-``` {r figure7, echo = F, message = F, fig.cap = 'Germany – ODA to data and statistics by channel', fig.align = "center"}
+``` {r figure7, echo = F, message = F, fig.cap = 'Germany – ODA to data and statistics by channel', fig.align = "center", fig.topcaption=TRUE}
 knitr::include_graphics("images/figures/Figure7.svg")
 ```
+<code>
+Note: Based on share of total ODA gross disbursements. NA: not applicable; NGO: non-governmental organisation; FAO: Food and Agriculture Organization; IMF: International Monetary Fund; IOM: International Organization for Migration.
+</code>
 
 :::: {.box data-latex=""}
 ::: {.center data-latex=""}
@@ -58,4 +61,5 @@ knitr::include_graphics("images/figures/Figure7.svg")
 **Contact**
 
 - BMZ, Governance unit
+
 ::::
