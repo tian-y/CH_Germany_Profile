@@ -59,6 +59,21 @@
   padding-left: 11px !important;
 }  
 
+/* Personal gitbook tweaks -------------------------------------------------- */
+
+/* Personal gitbook tweaks -------------------------------------------------- */
+
+.box {
+  padding: 1em;
+  background: transparent;
+  color: black;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
+
 /* -----------Sidebar div tips------------- */
 /* from r-pkgs.org*/
 /*
