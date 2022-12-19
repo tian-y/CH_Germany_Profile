@@ -13,7 +13,7 @@ bookdown::gitbook:
         <li class="toc-logo"><a href="https://paris21-data.github.io/CH_Germany_Profile/"><img src="CH_logo_webite_extracted.png"></a></li>
         <li class="toc-logo"><a href="https://www.oecd.org/dac/data-for-development-profiles-84baa8f3-en.htm"><img src="images/OECD_Logo.png"></a></li>
       after: |
-        <li><a href="https://smartdatafinance.org/donor/28" target="blank">🔙 Germany's main page in the Clearinghouse</a></li>
+        <li><a href="https://smartdatafinance.org/donor/28" target="blank">The Germany profile page is also available in the Clearinghouse.</a></li>
     info: no
     fontsettings:
       size: 2
