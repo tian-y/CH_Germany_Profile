@@ -23,3 +23,10 @@ Using `fig.topcaption=TRUE` so that figure captions are above the figures.
 
 A great website to paste text to markdown: https://euangoddard.github.io/clipboard2markdown/
 
+
+delete a git branch locally 
+
+```
+git branch --delete <branchname>
+```
+
