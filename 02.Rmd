@@ -2,25 +2,6 @@
 
 In 2020, the Federal Ministry for Economic Cooperation and Development (BMZ) drew up a comprehensive package of reforms entitled “[BMZ 2030](https://www.bmz.de/en/development-policy/reform-strategy-bmz-2030)”. The aim was to focus development measures and funding even more strategically, effectively and efficiently, inter alia, by concentrating the number of areas of work. New focus was put on areas such as the ones reflected in Germany’s support in the area of data and statistics, which often focusses on environmental data and statistics, agricultural data, data on migration, and, increasingly, new data sources associated with digital technologies. According to OECD data and research^[The analysis in this profile is based on official data reported by members to the OECD’s Creditor Reporting System. It is published under the responsibility of the OECD. OECD analysts mined the database using a text search with manual curation. Where relevant, members contributed additional data to fill gaps. Please see the methodological annex for further details on the data analysis.],  Germany disbursed nearly USD 29 million in 2020 (in 2020 prices) in support of data and statistics, significantly increasing since 2017. On average, USD 20 million were disbursed between 2018 and 2020 (Figure \@ref(fig:figure1)).
 
-```{r setup2, echo = F}
-# https://stackoverflow.com/a/26743812/4927395 
-library(knitr)
-# knit_hooks$set(plot = function(x, options, .notes = note) {
-#   paste('<figure><label>fig:',opts_current$get("label"),'</label><figcaption>', 
-#         options$fig.cap, 
-#         '</figcaption><img src="',
-#         opts_knit$get('base.url'), 
-#         paste(x, collapse = '.'),
-#         '">',
-#         # '<fignote>', 
-#         # '<br>',
-#         # .notes, 
-#         # '</fignote>',
-#         '</figure>',
-#         sep = '')
-# }) 
-```
-
 ```{r figure1, echo = FALSE, message = F, fig.cap = 'Germany - ODA to data and statistics, 2010 - 2020', fig.align = 'center', fig.topcaption=TRUE}
 
 knitr::include_graphics("images/figures/Figure1.svg")
